@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_beginner_into"
+            android:icon="@drawable/wiil_be_change"
+            android:title="@string/nav_drawer_beginner" />
+        <item
+            android:id="@+id/nav_hausa_grammer"
+            android:icon="@drawable/wiil_be_change"
+            android:title="@string/nav_drawer_hausa_grammer" />
+        <item
+            android:id="@+id/nav_word_category"
+            android:icon="@drawable/wiil_be_change"
+            android:title="@string/nav_drawer_word_category" />
+
+        <item
+            android:id="@+id/nav_quize"
+            android:icon="@drawable/wiil_be_change"
+            android:title="@string/nav_drawer_quize" />
+    </group>
+
+    <item android:title="@string/nav_drawer_others">
+        <menu>
+            <item
+                android:id="@+id/nav_feed_back"
+                android:icon="@drawable/wiil_be_change"
+                android:title="@string/nav_drawer_feed_back" />
+
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/wiil_be_change"
+                android:title="@string/nav_drawer_about" />
+        </menu>
+
+    </item>
+
+</menu>

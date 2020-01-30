@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Learn Hausa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home Fragment</string>
+    <string name="nav_drawer_beginner">Beginner Intro</string>
+    <string name="nav_drawer_hausa_grammer">Hausa Grammar</string>
+    <string name="nav_drawer_word_category">Word Category</string>
+    <string name="nav_drawer_others">Other</string>
+    <string name="nav_drawer_quize">Quize</string>
+    <string name="nav_drawer_feed_back">Feed Back</string>
+    <string name="nav_drawer_about">About</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
